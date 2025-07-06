@@ -31,7 +31,22 @@ movies = {
     "58": "https://t.me/KINOLARtv07/1383",
     "57": "https://t.me/KINOLARtv07/1382",
     "56": "https://t.me/KINOLARtv07/1380",
-    "55": "https://t.me/KINOLARtv07/1379"
+    "55": "https://t.me/KINOLARtv07/1379",
+    "40": "https://t.me/KINOLARtv07/1362",
+    "41": "https://t.me/KINOLARtv07/1363",
+    "42": "https://t.me/KINOLARtv07/1364",
+    "43": "https://t.me/KINOLARtv07/1365",
+    "44": "https://t.me/KINOLARtv07/1366",
+    "45": "https://t.me/KINOLARtv07/1367",
+    "46": "https://t.me/KINOLARtv07/1368",
+    "47": "https://t.me/KINOLARtv07/1369",
+    "48": "https://t.me/KINOLARtv07/1370",
+    "49": "https://t.me/KINOLARtv07/1371",
+    "50": "https://t.me/KINOLARtv07/1372",
+    "51": "https://t.me/KINOLARtv07/1373",
+    "52": "https://t.me/KINOLARtv07/1374",
+    "53": "https://t.me/KINOLARtv07/1375",
+    "54": "https://t.me/KINOLARtv07/1376"
 }
 
 # Flask index sahifa
