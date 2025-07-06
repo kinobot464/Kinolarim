@@ -16,7 +16,22 @@ CHANNEL_ID = "@kinolar_olami12346"  # E'tibor bering: "@" bilan yoziladi
 movies = {
     "70": "https://t.me/KINOLARtv07/1397",  # misol
     "72": "https://t.me/KINOLARtv07/1400",
-    "71": "https://t.me/KINOLARtv07/1399"
+    "71": "https://t.me/KINOLARtv07/1399",
+    "66": "https://t.me/KINOLARtv07/1393",
+    "67": "https://t.me/KINOLARtv07/1394",
+    "68": "https://t.me/KINOLARtv07/1395",
+    "69": "https://t.me/KINOLARtv07/1396",
+    "65": "https://t.me/KINOLARtv07/1392",
+    "64": "https://t.me/KINOLARtv07/1391",
+    "63": "https://t.me/KINOLARtv07/1388",
+    "62": "https://t.me/KINOLARtv07/1387",
+    "61": "https://t.me/KINOLARtv07/1386",
+    "60": "https://t.me/KINOLARtv07/1385",
+    "59": "https://t.me/KINOLARtv07/1384",
+    "58": "https://t.me/KINOLARtv07/1383",
+    "57": "https://t.me/KINOLARtv07/1382",
+    "56": "https://t.me/KINOLARtv07/1380",
+    "55": "https://t.me/KINOLARtv07/1379"
 }
 
 # Flask index sahifa
