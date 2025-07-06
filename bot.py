@@ -16,7 +16,7 @@ CHANNEL_ID = "@kinolar_olami12346"  # E'tibor bering: "@" bilan yoziladi
 movies = {
     "70": "https://t.me/KINOLARtv07/1397",  # misol
     "72": "https://t.me/KINOLARtv07/1400",
-"71": "https://t.me/KINOLARtv07/1399"
+    "71": "https://t.me/KINOLARtv07/1399"
 }
 
 # Flask index sahifa
