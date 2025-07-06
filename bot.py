@@ -10,7 +10,7 @@ bot = telebot.TeleBot(TOKEN)
 app = Flask(__name__)
 
 # Majburiy kanal
-CHANNEL_ID = "@kinolar_olami12346"  # E'tibor bering: "@" bilan yoziladi
+CHANNEL_ID = "@kinolar_olami12346", "@AFSUNGAR_MERLIN_SERIALI_K"  # E'tibor bering: "@" bilan yoziladi
 
 # Kodlarga mos kinolar (qo'lda qo‘shib boriladi)
 movies = {
