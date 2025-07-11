@@ -19,7 +19,8 @@ DEFAULT_CHANNELS = [
     "@KINOLARtv07",
     "@AFSUNGAR_MERLIN_SERIALI_K",
     "@kinolar_olami12346",
-    "-1002683638848"
+    "-1002683638848",
+    "https://t.me/+NPRSL0vC3_wyZTdi"
 ]
 
 # Fayllarni yaratish
