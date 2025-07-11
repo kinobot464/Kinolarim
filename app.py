@@ -18,7 +18,8 @@ CHANNELS_FILE = "data/channels.json"
 DEFAULT_CHANNELS = [
     "@KINOLARtv07",
     "@AFSUNGAR_MERLIN_SERIALI_K",
-    "@kinolar_olami12346"
+    "@kinolar_olami12346",
+    "-1002683638848"
 ]
 
 # Fayllarni yaratish
