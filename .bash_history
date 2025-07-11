@@ -77,3 +77,8 @@ git add requirements.txt
 git commit -m "Flask va telebot qo'shildi"
 git push origin main
 git push origin main --force
+git add .
+git commit -m "Yakuniy versiya: audio, video, obuna, tugmalar"
+git push
+git pull origin main --rebase
+git push origin main
